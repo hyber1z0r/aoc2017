@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/hyber1z0r/aoc2017/issues"
   },
-  "homepage": "https://github.com/hyber1z0r/aoc2017#readme"
+  "homepage": "https://github.com/hyber1z0r/aoc2017#readme",
+  "dependencies": {}
 }
